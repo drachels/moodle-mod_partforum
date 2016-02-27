@@ -2,7 +2,7 @@
 - Moodle tracker component: 
 - Documentation: 
 - Source Code: https://github.com/drachels/moodle-mod_partforum
-- License: http://www.gnu.org/licenses/gpl-2.0.txt
+- License: http://www.gnu.org/licenses/gpl-3.0.txt
 
 ## Install from git
 - Navigate to Moodle root folder
