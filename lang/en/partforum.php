@@ -158,7 +158,7 @@ $string['forumbodyhidden'] = 'This post cannot be viewed by you, probably becaus
 //$string['forum:exportownpost'] = 'Export own post';
 //$string['forum:exportpost'] = 'Export post';
 //$string['forum:initialsubscriptions'] = 'Initial subscription';
-//$string['forumintro'] = 'Forum introduction';
+$string['forumintro'] = 'Forum introduction';
 $string['forumintro_default_partforum'] = '
 	<p><b>This discussion activity is automatically rated based on participation, using the <a href="http://participationforum.org" target="_blank">Participation Forum methodology</a></b></p>
 	<p><b>Contributions to this discussion must be posted by <em><span style="color: #990000;">{$a}</span></em> to increase your rating.</b></p>
