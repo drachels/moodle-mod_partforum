@@ -27,6 +27,6 @@
  */
 
 $module->version  = 2013010601;		// Participation Forum 1.4.0
-$module->requires = 2012122300;  	// Requires this Moodle version
+$module->requires = 2012112900;  	// Requires this Moodle version
 $module->cron     = 60;
 $module->component = 'mod_partforum'; // Full name of the plugin (used for diagnostics)
